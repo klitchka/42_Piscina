@@ -1,0 +1,5 @@
+Credentials cache: API:EC99CB6F-24C0-42DE-A24D-FB1328A787A8
+        Principal: aaparici@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 25 18:42:43 2020  Nov 26 04:42:43 2020  krbtgt/42MADRID.COM@42MADRID.COM
