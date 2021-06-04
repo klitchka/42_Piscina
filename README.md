@@ -1,24 +1,24 @@
 # 42_Piscina
 
 C_PISCINE_SHELL_00 100%
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK
+ex00: ✅ | ex01: ✅ | ex02: ✅ | ex03: ✅ | ex04: ✅ | ex05: ✅ | ex06: ✅ | ex07: ✅ | ex08: ✅ | ex09: ✅
 
 C_PISCINE_SHELL_01 100%
-ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
+ex01: ✅ | ex02: ✅ | ex03: ✅ | ex04: ✅ | ex05: ✅ | ex06: ✅ | ex07: ✅ | ex08: ✅
 
 C_PISCINE_00 85%
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK |
+ex00: ✅ | ex01: ✅ | ex02: ✅ | ex03: ✅ | ex04: ✅ | ex05: ✅ | ex06: ✅ | ex07: ✅ | ex08: Does not compile
 
 C_PISCINE_01 100%
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
+ex00: ✅ | ex01: ✅ | ex02: ✅ | ex03: ✅ | ex04: ✅ | ex05: ✅ | ex06: ✅ | ex07: ✅ | ex08: ✅
 
 C_PISCINE_02 70%
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: KO | ex10: OK | ex11: Nothing turned in | ex12: Nothing turned in
+ex00: ✅ | ex01: ✅ | ex02: ✅ | ex03: ✅ | ex04: ✅ | ex05: ✅ | ex06: ✅ | ex07: ✅ | ex08: ✅ | ex09: ❌ | ex10: ✅ | ex11: Nothing turned in | ex12: Nothing turned in
 
 C_PISCINE_03 75%
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: Nothing turned in
+ex00: ✅ | ex01: ✅ | ex02: ✅ | ex03: ✅ | ex04: ✅ | ex05: Nothing turned in
 
 C_PISCINE_04 70%
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: Nothing turned in | ex05: Nothing turned in
+ex00: ✅ | ex01: ✅ | ex02: ✅ | ex03: ✅ | ex04: Nothing turned in | ex05: Nothing turned in
 
-C_PISCINE_RUSH_00 120%
+C_PISCINE_RUSH_00 120% 
