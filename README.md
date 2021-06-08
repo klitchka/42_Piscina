@@ -1,9 +1,9 @@
-***C_PISCINE_SHELL_00** 100% 
-*---
+***C_PISCINE_SHELL_00** 100% *
+---
 Ex00: ✅ | Ex01: ✅ | Ex02: ✅ | Ex03: ✅ | Ex04: ✅ | Ex05: ✅ | Ex06: ✅ | Ex07: ✅ | Ex08: ✅ | Ex09: ✅
 
-***C_PISCINE_SHELL_01 ** 100% 
-*---
+***C_PISCINE_SHELL_01 ** 100% *
+---
 ex01: ✅ | ex02: ✅ | ex03: ✅ | ex04: ✅ | ex05: ✅ | ex06: ✅ | ex07: ✅ | ex08: ✅
 
 ***C_PISCINE_00** 85% 
