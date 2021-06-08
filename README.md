@@ -19,7 +19,7 @@ ex00: ✅ | ex01: ✅ | ex02: ✅ | ex03: ✅ | ex04: ✅ | ex05: ✅ | ex06: �
 ***C_PISCINE_03** 75% 
 *ex00: ✅ | ex01: ✅ | ex02: ✅ | ex03: ✅ | ex04: ✅ | ex05: Nothing turned in
 
-***C_PISCINE_04** 70% 
-*ex00: ✅ | ex01: ✅ | ex02: ✅ | ex03: ✅ | ex04: Nothing turned in | ex05: Nothing turned in
+*C_PISCINE_04** 70% *
+ex00: ✅ | ex01: ✅ | ex02: ✅ | ex03: ✅ | ex04: Nothing turned in | ex05: Nothing turned in
 
-***C_PISCINE_RUSH_00** 120%*
+*C_PISCINE_RUSH_00 120%*
